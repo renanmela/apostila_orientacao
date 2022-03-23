@@ -1,0 +1,3 @@
+Do while: Garante que o bloco de instruções seja executado no mínimo uma vez, já que a condição que controla o laço é testada apenas no final do comando. A diferença entre o comando while e o do… while é justamente o local onde a condição que controla o laço é testada.
+
+Switch Case: Switch é um comando que serve para fazer testes condicionais, testando igualdades, onde podemos usar várias opções de comparações. Assim como o nosso conhecido par IF ELSE, o comando switch também serve para fazer testes condicionais.
